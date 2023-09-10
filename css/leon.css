@@ -111,6 +111,7 @@ body {
 
 .tabs {
     position: relative;
+    cursor: pointer;
 }
 
 .tabs ul {
